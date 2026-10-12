@@ -12,5 +12,4 @@ architecture dataflow of my_nand is
 
 begin 
   C<= A NAND B;
-  
 end dataflow;
