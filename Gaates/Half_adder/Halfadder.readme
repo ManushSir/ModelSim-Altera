@@ -1,0 +1,2 @@
+A Half Adder is a basic combinational logic circuit that adds two single-bit binary inputs (A and B) and generates a Sum and a Carry output.
+We will generate a code to create half adder circuit in VHDL
